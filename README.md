@@ -13,3 +13,6 @@ I’m a beginner in data visualization and analysis, eager to improve my craft. 
 Feel free to leave your comments, or reach out if you'd like to discuss these visualizations or collaborate on data-related projects. 
 
 Thank you for stopping by!
+
+## 2024-12-24 Global Holidays and Travels
+Includes bar figures of monthly passengers and top 10 countires, also includes word cloud of holidays.
