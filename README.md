@@ -16,3 +16,4 @@ Thank you for stopping by!
 
 ## 2024-12-24 Global Holidays and Travels
 Includes bar figures of monthly passengers and top 10 countires, also includes word cloud of holidays.
+![#Tidy Tuesday - Global Holidays and Travel](https://github.com/user-attachments/assets/a431c7ba-6009-48ba-8c15-00858c68c648)
